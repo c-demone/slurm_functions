@@ -1,3 +1,0 @@
-bokeh==2.0
-dask_jobqueue
-ipykernel
