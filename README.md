@@ -1,4 +1,4 @@
-<h1 style="color: white; background-color: #af9cd9; padding: 2em 0; text-align: center">PySLURM Decorators<img align="left" width="60" height="40" src="/static/pyslurmdec.png"></h1>
+<h1 style="color: white; background-color: #af9cd9; padding: 2em 0; text-align: center">SLURM Functions<img align="left" width="60" height="40" src="/static/pyslurmdec.png"></h1>
 
 Python decorator for submitting decorated Python functions to a SLURM cluster
 
