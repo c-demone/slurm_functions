@@ -2,6 +2,7 @@
 
 dask==2022.7.0
 distributed==2022.7.0
+dask_jobqueue==0.8.1
 ipython==7.31.1
 rich==13.3.1
 tornado==6.1
