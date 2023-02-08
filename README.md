@@ -2,7 +2,7 @@
 
 Python decorator for submitting decorated Python functions to a SLURM cluster
 
-Take a look at the documentation [here](https://fcp4agithdp02.bocad.bank-banque-canada.ca/pages/BOCAE/pyslurm_decorators/)
+Take a look at the documentation [here](https://ludah65.github.io/slurm_functions/)
 
 ## General Overview
 To schedule functions as jobs on a SLURM cluster, the Dask distributed and job_queue libraries are used. Currently the goal is only to launch functions locally from Edith, but the hope is to be able to remotely launch jobs from within a Python instance that can reach Edith or any other SLURM HPC. 
