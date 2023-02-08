@@ -1,6 +1,6 @@
-site_name: PySLURM Decorators
-repo_name: aecurrency/pyslurm_decorators
-repo_url: https://fcp4agithdp01.bocad.bank-banque-canada.ca/aecurrency/pyslurm_decorators
+site_name: SLURM Functions
+repo_name: ludah65/slurm_function
+repo_url: https://github.com/ludah65/slurm_functions
 edit_uri: ""
 theme:
   features:
